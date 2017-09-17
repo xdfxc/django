@@ -33,7 +33,7 @@ To get more help:
 
 To contribute to Django:
 
-* Check out https://www.yesky.com for
+* Check out https://www.koolearn.com for
   information about getting involved.
 
 To run Django's test suite:
